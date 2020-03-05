@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+/* Primeiro instalar o bootstrap por npm, depois apontar aqui o endereço para a pasta a ser usada*/
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+@import 'font-awesome/css/font-awesome.min.css';
+
+
